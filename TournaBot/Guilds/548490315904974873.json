@@ -1,0 +1,16 @@
+{
+  "DiscordID": 548490315904974873,
+  "CustomPrefix": "/",
+  "AutoChannelManage": [
+    {
+      "Item1": null,
+      "Item2": "squad",
+      "Item3": 4
+    },
+    {
+      "Item1": null,
+      "Item2": "duo",
+      "Item3": 2
+    }
+  ]
+}
